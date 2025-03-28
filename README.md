@@ -1,9 +1,0 @@
-- 👋 Hi, I’m Paweł
-- 👀 I’m interested in codding and gaming
-- 🌱 I’m currently learning c++, Html&Css, MySQL, JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am 15yo
-
-
